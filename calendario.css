@@ -1,0 +1,39 @@
+/* color1: #0d6efd */
+
+.btn-group{
+    padding: 10px;
+    flex-direction: column;
+    overflow:auto;
+    height: 400px;
+    margin: 0px 15px 15px 15px;
+}
+
+.selectorHorario{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    width:max-content;
+    margin: 10px;
+}
+
+.btn-outline-primary{
+    width: 8vw;
+    min-width: 10px;
+    margin: 5px;
+}
+
+h4 {
+    margin: 15px 15px 0px 15px !important;
+    padding: 10px !important;
+    font-size: 18px !important;
+}
+
+/* @media only screen and (min-width: 1px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 1024px) {
+} */
